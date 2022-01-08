@@ -8,4 +8,8 @@ the Java code was inspired from [this article.](https://stackabuse.com/traveling
 
 # Result
 
+First run:
 ![First run](https://github.com/coderHM79/TSP-With-Java/blob/main/first%20run.png "Result of first run.")
+
+Seond run:
+![Second run](https://github.com/coderHM79/TSP-With-Java/blob/main/first%20run.png "Result of second run.")
